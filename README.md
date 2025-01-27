@@ -1,4 +1,3 @@
-# EDA-ON-PLAYSTORE-APP-REVIEWS
 Play Store Analysis with Power BI
 
 Project Overview
@@ -103,11 +102,13 @@ Load the dataset into Power BI.
 
 Clean and transform data (e.g., handle missing values, convert data types).
 
-Create calculated columns and measures for analysis (e.g., total installs, average rating).
+Create calculated columns and measures for analysis.
 
 Data Modeling:
 
 Create relationships between tables if using multiple datasets.
+
+Ensure proper data hierarchy (e.g., date fields for time analysis).
 
 Visualization:
 
@@ -119,8 +120,7 @@ Pie Charts: Distribution of free vs. paid apps.
 
 Slicers: Filters for categories, content ratings, etc.
 
-
- Insights:
+Insights
 
 The Games category has the highest number of installs but lower average ratings compared to Productivity apps.
 
